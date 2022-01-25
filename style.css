@@ -67,7 +67,7 @@ ul li span {
 }
 
 /*styling first card and second card, first Paragraph"*/
-.first-card p, .second-card p {
+.first-card h1, .second-card h1 {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   color: #ecf2f8;
@@ -75,7 +75,7 @@ ul li span {
   text-align: start;
   font-size: 23px;
   padding-left: 35px;
-  padding-right: 35px;
+  padding-right: 50px;
   position: relative;
   bottom: 90px;
 }
@@ -95,8 +95,11 @@ ul li span {
   font-weight: 500;
   font-size: 15px;
   padding-right: 55px;
+  padding-left: 35px;
   line-height: 1.5;
   opacity: 0.7;
+  position: relative;
+  bottom: 85px;
 }
 
 /*end of the first card*/
@@ -111,14 +114,15 @@ ul li span {
 
 /*second-card Review*/
 #review2 {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
   color: #cfcfcf;
   font-weight: 500;
   font-size: 15px;
-  padding-right: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
   line-height: 1.5;
   opacity: 0.7;
+  position: relative;
+  bottom: 85px;
 }
 
 /*end of second card*/
@@ -128,7 +132,7 @@ ul li span {
 }
 
 /*styling third and fourth cards paragraphs*/
-.third-card p, .fourth-card p {
+.third-card h1, .fourth-card h1 {
   color: #48556a;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -221,7 +225,7 @@ ul li span {
 }
 
 /*card5 styling first p*/
-.fifth-card p {
+.fifth-card h1 {
   color: #48556a;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
